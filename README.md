@@ -2,7 +2,7 @@
 
 > APP description...
 
-## Built Witha
+## Built With
 
 - Technologies
 
@@ -10,7 +10,7 @@
 
 ### Mobile
 
-mobile views sdafsdf 
+mobile views 
 
 ### Desktop
 
